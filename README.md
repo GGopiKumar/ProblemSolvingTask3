@@ -19,3 +19,17 @@ students in a Guvi class, your task is to distribute the Mangoes in such a way t
 each student gets one Bag. The difference between the number of Mangoes in a
 bag with maximum Mangoes and Bag with minimum Mangoes given to the
 student is minimum ?
+
+6.) You have been given three lists. Your task is to find the duplicates in the three
+lists. Write a python program for the same. You can use your own python lists ?
+
+7.) Write a python program to find the first non - repeating elements in a given list of
+integers ?
+
+8.) Write a python program to find the minimum element in a rated and sorted list ?
+
+9.) You have been given a Python list [10,20,30,9] and a value of 59. Write a python
+program to find the triplet in the list whose sum is equal to the given value ?
+
+10.) Given a list [4,2,-3,1,6] Write a python program to find if there is a sub-list with
+sum equal to Zero ?
