@@ -9,6 +9,7 @@ Prime Numbers and create a new Python List which will contain all the Prime Numb
 in it ?
 
 3.) Given a Python List [10, 501, 22, 37, 100, 999, 87, 351] Find out how many numbers are
+jsagfjebgfjdh
 there in the given Python List which are Happy Numbers ?
 
 4.) Write a python program to find the sum of the first and last digit of an integer ?
